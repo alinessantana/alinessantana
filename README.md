@@ -1,4 +1,4 @@
-Olá, seja bem-vindo(a)! 👋
+<strong><h1>Olá, seja bem-vindo(a)!<h1></strong> 👋
 
 <div align="center">
   <a href="https://github.com/alinessantana">
