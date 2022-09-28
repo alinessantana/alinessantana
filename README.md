@@ -1,14 +1,80 @@
-<strong><h1>Olá, seja bem-vindo(a)! 👋<h1></strong> 
-<div align="center">
-  <a href="https://github.com/alinessantana">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=alinessantana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinessantana&layout=compact&langs_count=7&theme=dark"/>
+<header>
+ <!--
+💫 Introduction:
+-->
+
+<h1> Olá, seja bem-vindo(a) 🍃 </h1>
+
+🔮 Esse é meu portfolio, aqui irei compartilhar meus projetos e desenvolvimento nos estudos com foco em backend!
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=alinessantanaki&label=PROFILE+VIEWS">
 </div>
 
-<div style="display: inline_block"><br>      
-<img align="center" alt="Aline-androidS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Aline-androidS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<!--
+🔗 Linkedin and email hyperlink:
+-->
+ 
+  <div style="display: flex">
+    <a 
+       href="mailto: aline.sousa.dev@gmail.com" target="_blank">
+       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+  </div>
+
+ <!--
+📊 Skills:
+-->
+
+<h2> 👩‍💻 Habilidades : </h2>
+
+    
+<div align="left">
+
+ <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+ <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  
+  <h4>Linguagens em que me interesso estudar no futuro (sem limitações para aprender outras) 👩🏻‍💻 : Python, Javascript (Nodejs)
           
+  
+          
+
+ 
+</div>
+ <br>
+ 
+<!--
+👾 Gif:
+-->
+ 
+<div align="center">
+ <img align="center" src="https://user-images.githubusercontent.com/110197793/192844094-0958adb4-e04f-407d-8c6f-1db5ee7a0153.gif">
+</div>
+<br>
+
+</header>
+
+<main>
+
+<h2> 🔍 Status do Github: </h2>
+<br>
+
+<!--
+📖 Read me status:
+-->
+
+  <div align="center">
+   <img height=140em align="center" src="https://github-readme-stats.vercel.app/api?username=alinessantana&hide=contribs,prs&show_icons=true&theme=dark" alt="js"/>
+   <img height=140em align="center" src="http://github-readme-streak-stats.herokuapp.com?user=alinessantana&theme=dark" alt="js"/>
+  </div>
+
+  <div align="center">
+   <img height=152em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinessantana&&layout=compact&theme=dark" alt="js"/>
+  </div>
+
+
           
           
           
