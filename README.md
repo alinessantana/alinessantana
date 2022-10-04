@@ -5,7 +5,7 @@
 
 <h1> Olá, seja bem-vindo(a) 🍃 </h1>
 
-🔮 Esse é meu portfolio, aqui irei compartilhar meus projetos e desenvolvimento nos estudos com foco em backend!
+🔮 Esse é meu portfolio, aqui irei compartilhar meus projetos e desenvolvimento nos estudos com foco em front-end!
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=alinessantanaki&label=PROFILE+VIEWS">
