@@ -33,10 +33,8 @@
 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
- <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   
-  <h4>Linguagens em que me interesso estudar no futuro (sem limitações para aprender outras) 👩🏻‍💻 : Python, Javascript (Nodejs)
+  <h4>Linguagens/Frameworks em que me interesso estudar no futuro (sem limitações para aprender outras) 👩🏻‍💻 : Javascript(ReactJS), Bootstrap, Angular, VueJS
           
   
           
